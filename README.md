@@ -1,2 +1,3 @@
 # PythonReview
-make some code python only to review the language
+
+Simple code only to review some concepts about python
